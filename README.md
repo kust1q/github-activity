@@ -1,8 +1,8 @@
-# A simple parser for the latest activity on github.com
+# The parser for the latest activity on github.com
 
 ## Description
 
-Second simple roadmap project, CLI
+Second roadmap backend project, CLI
 
 ## Usage 
 
