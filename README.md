@@ -1,4 +1,4 @@
-# A simple parser for the latest activity on github
+# A simple parser for the latest activity on github.com
 
 ## Description
 
