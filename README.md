@@ -2,7 +2,7 @@
 
 ## Description
 
-Second roadmap backend project, CLI
+A CLI util to show GitHub activity
 
 ## Usage 
 
